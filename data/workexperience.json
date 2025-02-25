@@ -1,0 +1,34 @@
+[    
+    {
+     "job": "Frontend Software Engineer",
+     "company": "D.W. Morgan",
+     "description": "Handled Freight Payment Frontend Engineering Design, Bug Fixes., Roles and permissions, Documented Issues, diagnosis and resolution.",
+     "startDate": "February 13, 2023",
+     "endDate": "May 19, 2023",
+     "employmentStatus": "Internship"
+    },
+    {
+     "job": "WordPress Web Designer",
+     "company": "Coastal Real Estate Academy",
+     "description": "Creates, updates and designs web page. Updating social media posts together with the website.\nManages wordpress updates,plugins and form data",
+     "startDate": "August 16, 2021",
+     "endDate": "Present",
+     "employmentStatus": "Freelance"
+    },
+    {
+     "job": "IT Assistant",
+     "company": "Noble Trends Unbound, Inc.",
+     "description": "Managed workstations, Linux and Windows Servers. \nUser Account Creation. System Database Administration and\nNetwork Administration.\nManaged Company website and Hostgator Cpanel",
+     "startDate": "",
+     "endDate": "",
+     "employmentStatus": "Internship"
+    },
+    {
+     "job": "General Office Student Assistant",
+     "company": "University of Baguio",
+     "description": "Released and Received equipment to users.\nMaintains equipment Inventory. Handled Front Line Secretarial Office Work. Assisted and accommodated complaints.\nReceived and\/or Distributed incoming or outgoing documents.\nMaintained Student’s and Faculty’s Files",
+     "startDate": "",
+     "endDate": "",
+     "employmentStatus": "Scholarship"
+    }
+   ]
